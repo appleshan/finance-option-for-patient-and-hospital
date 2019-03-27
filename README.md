@@ -1,7 +1,8 @@
 # finance-option-for-hospital
 
+[]()https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/payment-03.9c27d5af619089da8db7cb29e414f6ac.jpeg 
 
-![](http://5b0988e595225.cdn.sohucs.com/images/20171109/d0f5b08913bf4ced8754f15929c639ed.jpeg)
+
 
 
 
@@ -103,3 +104,56 @@ CareCredit offers healthcare financing for consumers through a network of over 1
 •Cosmetic treatments and surgery
 
 公司网站 http://www.carecredit.com
+
+
+### Care Credit for pet
+
+
+Whether it's a routine checkup or emergency surgery, you shouldn't have to worry about how to get the best medical care for the pet you love. That's why we're pleased to offer CareCredit®, North America's leading client payment program. CareCredit lets you say "yes" to the best treatment for your pet immediately, and pay for it over time with low monthly payments that fit easily into your budget.
+
+Like a credit card, but better. CareCredit works just like a regular credit card, but without high interest rates, annual fees or pre-payment penalties. CareCredit offers no-interest and low interest payment terms, zero hidden fees, and low minimum monthly payments. You can use your CareCredit card over and over for all your pet's follow-up care as well as annual exams and vaccines. So you can focus on what really matters, like playing fetch and learning new tricks.
+
+*   Enjoy low minimum monthly payments
+*   Get a No-Interest Payment Plan for any treatment amount
+*   Start your pet's treatment immediately
+
+
+We offer our clients a variety of payment options, including CareCredit and some pet health insurance plans. Please see a full list of all available options below.
+
+*   VISA
+*   MasterCard
+*   American Express
+*   Discover
+*   Cash or Check
+
+![](https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/payment-options-carecredit-logo.jpg "payment-options-carecredit-logo.jpg")
+
+We also accept CareCredit. Learn more about [CareCredit](https://www.carecredit.com/).
+
+
+
+![](http://5b0988e595225.cdn.sohucs.com/images/20171109/d0f5b08913bf4ced8754f15929c639ed.jpeg)
+
+
+### for dental treament
+
+Dental treatment is an excellent investment in an individual's medical and psychological well being. Financial considerations should not be an obstacle to obtaining this important health service. Being sensitive to the fact that different people have different needs in fulfilling their financial obligations, we provide the following payment options.
+
+**Flexible Monthly Payment Option**
+
+With our convenient payment plan administered by CareCredit, you can have the smile of your dreams today. CareCredit, the nation's leading patient payment program, enables you to finance 100% of your dental care with **NO money down, NO interest,** no upfront costs, no annual fees, and no pre-payment penalties. So, begin your treatment TODAY!
+
+<%= link\_to image\_tag("care\_credit.gif"), 'http://www.carecredit.com/apply/landing.html', :style => "float: left; padding-left: 30px; padding-right:10px;" %>
+
+Care Credit can be used by the entire family for ongoing treatment without having to reapply. Care Credit offers a comprehensive range of plan options, for treatment or procedure fees from $1 to over $25,000, and it only takes a few minutes to apply for CareCredit. To learn more about CareCredit, call 1-800-839-9078, or visit their web site at <%= link\_to("www.CareCredit.com") %>
+
+**Payment in Full** - Ask about our 5% courtesy discount for payment in full at the start of treatment for procedures over $1000.
+
+**We Accept Visa and Master Card.**
+
+<%= image\_tag("visa.gif")%><%= image\_tag("master.gif")%>
+
+**Patients Who Have Dental Insurance** - We welcome dental insurance including SoonerCare. We will be happy to answer all of your questions and call your insurance provider to verify benefits.
+
+**As a courtesy to you, we are happy to bill your insurance company for you.**
+
