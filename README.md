@@ -1,25 +1,25 @@
 # finance-option-for-hospital
 结算方式
 ![](https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/payment-03.9c27d5af619089da8db7cb29e414f6ac.jpeg )
-01	现金	支付现金	CV07.10.004	医疗费用结算方式代码表
-02	支票	以支票支付	CV07.10.004	医疗费用结算方式代码表
-03	汇款存款	以汇款、存款支付	CV07.10.004	医疗费用结算方式代码表
-04	内部转账	以内部转账方式支付	CV07.10.004	医疗费用结算方式代码表
-05	单位记账	以单位记账方式支付	CV07.10.004	医疗费用结算方式代码表
-06	账户金	以账户金支付	CV07.10.004	医疗费用结算方式代码表
-07	统筹金	以统筹金支付	CV07.10.004	医疗费用结算方式代码表
-08	银行卡	以电子现金（IC卡）支付	CV07.10.004	医疗费用结算方式代码表
+01	现金	支付现金	CV07.10.004	医疗费用结算方式代码表    
+02	支票	以支票支付	CV07.10.004	医疗费用结算方式代码表     
+03	汇款存款	以汇款、存款支付	CV07.10.004	医疗费用结算方式代码表       
+04	内部转账	以内部转账方式支付	CV07.10.004	医疗费用结算方式代码表        
+05	单位记账	以单位记账方式支付	CV07.10.004	医疗费用结算方式代码表      
+06	账户金	以账户金支付	CV07.10.004	医疗费用结算方式代码表      
+07	统筹金	以统筹金支付	CV07.10.004	医疗费用结算方式代码表       
+08	银行卡	以电子现金（IC卡）支付	CV07.10.004	医疗费用结算方式代码表       
 99	其他	其他无法按上述类别归类的支付方式	CV07.10.004	医疗费用结算方式代码表
 
 
-01城镇职工基本医疗保险CV07.10.003医疗费用来源类别代码表
-02城镇居民基本医疗保险CV07.10.003医疗费用来源类别代码表
-03新型农村合作医疗CV07.10.003医疗费用来源类别代码表
-04贫困救助CV07.10.003医疗费用来源类别代码表
-05商业医疗保险CV07.10.003医疗费用来源类别代码表
-06全公费CV07.10.003医疗费用来源类别代码表
-07全自费CV07.10.003医疗费用来源类别代码表
-99其他CV07.10.003医疗费用来源类别代码表
+01城镇职工基本医疗保险CV07.10.003医疗费用来源类别代码表     
+02城镇居民基本医疗保险CV07.10.003医疗费用来源类别代码表       
+03新型农村合作医疗CV07.10.003医疗费用来源类别代码表      
+04贫困救助CV07.10.003医疗费用来源类别代码表      
+05商业医疗保险CV07.10.003医疗费用来源类别代码表     
+06全公费CV07.10.003医疗费用来源类别代码表      
+07全自费CV07.10.003医疗费用来源类别代码表      
+99其他CV07.10.003医疗费用来源类别代码表        
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20171109/d0f5b08913bf4ced8754f15929c639ed.jpeg)
 
@@ -177,3 +177,17 @@ Care Credit can be used by the entire family for ongoing treatment without havin
 
 **As a courtesy to you, we are happy to bill your insurance company for you.**
 
+
+### for hearing
+
+**Low Monthly Payment Plans**
+
+We offer CareCredit because we're committed to your hearing health. CareCredit is a convenient, low minimum monthly payment program allowing you to purchase your hearing devices today. With no up-front costs, no pre-payment penalties, and no annual fees, CareCredit lets you pay over time and frees up cash and credit cards for the other things you need. It's easy with immediate approval decisions.
+
+**Better Hearing Plan**
+
+The Better Hearing Plan extends an exclusive hearing benefit offering free testing and discounted prices on hearing products to employees and their friends and family. It provides access to a relationship with the most experienced professionals in the industry, top quality patient care and exceptional technology. If you are an employer or employee of a local company that is interested in this free benefit package, please contact our practice today for more information.
+
+**Insurance**
+
+Certain insurance companies have a benefit towards the purchase of your hearing instrument. Better Sound Audiology & Hearing Aid Service will assist you in determining a benefit that can assist with the cost of the instruments and in many cases directly bill your insurance for payment. Better Sound Audiology & Hearing Aid Service participates with many providers who offer assistance toward payment of your hearing instruments.
