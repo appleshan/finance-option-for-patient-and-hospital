@@ -1,6 +1,7 @@
 # finance-option-for-hospital
 
-[]()https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/payment-03.9c27d5af619089da8db7cb29e414f6ac.jpeg 
+![]()https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/payment-03.9c27d5af619089da8db7cb29e414f6ac.jpeg 
+![](http://5b0988e595225.cdn.sohucs.com/images/20171109/d0f5b08913bf4ced8754f15929c639ed.jpeg)
 
 
 
@@ -132,7 +133,6 @@ We also accept CareCredit. Learn more about [CareCredit](https://www.carecredit.
 
 
 
-![](http://5b0988e595225.cdn.sohucs.com/images/20171109/d0f5b08913bf4ced8754f15929c639ed.jpeg)
 
 
 ### for dental treament
