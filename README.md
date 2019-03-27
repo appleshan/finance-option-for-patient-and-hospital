@@ -89,3 +89,17 @@
 * 广州妇儿中心
 * 浙江大学医学院附属第二医院长兴院区
 * 淮北市市属公立医院(首批面向中国好人榜好人，市级以上(含)授予的道德模范、优秀共产党员，获得市级以上(含)荣誉的企业法人代表和个人,献血8000毫升以上人员，即对这部分人群，就医住院时不再需要缴纳任何押金费用，出院时按实际发生费用依程序结算即可。 )
+* 广州医科大学附属第二医院、广州医科大学附属第一医院、中山大学附属第六医院、广州中医药大学第一附属医院、暨南大学附属第一医院、广州市第一人民医院、广州市红十字会医院、广东药科大学附属第一医院、珠海市人民医院、广州市第十二人民医院、广州市番禺区何贤纪念医院、连州市人民医院。
+
+
+
+## CareCredit
+CareCredit offers healthcare financing for consumers through a network of over 175,000 providers. Founded in 1987, CareCredit was initially offered to doctors to help their patients pay for new dental implant technology. Continued advancements in technology, and procedures that are often not covered or fully covered by insurance, have created new choices for care, increasing the demand for financing options. CareCredit is a healthcare credit card that can be used as a payment option for certain expenses not covered by insurance or to bridge situations when desired care exceeds insurance coverage. CareCredit is offered primarily for:
+
+•Dentistry 
+•Vision correction 
+•Veterinary medicine 
+•Hearing care 
+•Cosmetic treatments and surgery
+
+公司网站 http://www.carecredit.com
