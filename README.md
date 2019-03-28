@@ -282,3 +282,35 @@ Certain insurance companies have a benefit towards the purchase of your hearing 
 
 
 http://www.wyzhifu.com/yjwendang/1294.html
+
+
+## Chase Health Advance
+
+ChaseHealthAdvance can provide eye care patients the chance to say goodbye to their glasses and contact lenses by offering a wide variety of payment plans to make vision correction procedures affordable. We offer no interest and extended payment plans which can give patients the piece of mind knowing that they can have better vision without worrying about the costs. Plus, ChaseHealthAdvance is a patient financing product offered by a division of Chase, so you can have the piece of mind knowing that you are working with financial services provider with over 200 years of lending experience.
+
+See the world in a whole new light!
+
+Financing Highlights with ChaseHealthAdvance
+
+No Interest payment plans for 3, 6, 12, 18 and 24 months*.
+Extended payment plans for up to 48 months*
+Revolving lines of credit starting at $5,000.
+No down payment, plus instant credit decisions with no application fee.
+Procedures Financed by ChaseHealthAdvance
+
+LASIK and Radial Keratotomy (RK)
+Orthokeratology
+Photorefractive Keratectomy (PRK)
+Eyelid Surgery / Blepharoplasty
+Cataract Surgery
+IOL
+For more information on ChaseHealthAdvance and our financing options visit our website at www.chasehealthadvance.com. There you will find all the information on our payment plans and can apply online to receive financing for your vision correction procedure!
+
+*No Interest Payment Plans - Purchase balance must be paid in full within the promotional period (3,6,12,18,or 24 months), all minimum payments must be made and account must not otherwise be in default during the promotional period or finance charges will be assessed on the balance due from the purchase date at the Annual Percentage Rate (APR) of 24.75% to 27.99% (depending on credit history at the time of credit approval). Length of the promotional period could be shorter depending upon the timing and amount of your payments and the type of other account balances. Extended Payment Plans - Fixed payments are required each month throughout the specified extended financing period (24, 36, 48 months) until the balance is paid in full. Finance charges will be applied to the balance due at the Annual Percentage Rate (APR) of 11.99% to 27.99% (depending on credit history and the medical specialty of the practice at the time of account funding. Exact terms will be supplied to you prior to opening your account.) The following is applicable to all plans:
+
+Default Rate: Equal to the non-default APR for a particular plan, plus up to 10.00%, not to exceed an APR of 30.00%. Late Payment Fee: $39 Returned Check Fee: $35 Minimum Finance Charge, if assessed: $.50
+
+Additional details regarding promotional financing offers, payment allocation,minimum payment and default rules are contained in an account agreement
+http://www.chasehealthadvance.com/
+
+
