@@ -162,11 +162,37 @@
 * 广州医科大学附属第二医院、广州医科大学附属第一医院、中山大学附属第六医院、广州中医药大学第一附属医院、暨南大学附属第一医院、广州市第一人民医院、广州市红十字会医院、广东药科大学附属第一医院、珠海市人民医院、广州市第十二人民医院、广州市番禺区何贤纪念医院、连州市人民医院。
 
 ## 高速收费站
-    12月15日12:00，随着第一辆驶入机场高速的司乘人员车牌支付成功，标志着机场高速郑州南收费站、机场收费站北口、机场收费站南口通行费征收实现支付宝信用支付——车牌支付（信用付）与银行卡闪付。
 
-    车牌支付功能是车主在支付宝芝麻信用分值高于550分值的基础上，在支付宝“高速纵横”生活号内注册，将自己的车牌号与支付宝账户绑定，在驶出高速时无须拿出手机进行扫码支付操作，而是提交通行卡后，由支付宝客户端自动代扣通行费用。当个人支付宝账户余额不足时，支付宝客户端将进行预付，确保通行费安全收回。银行卡闪付功能是车主提交通行卡后，用卡身有“闪付”标识的银行卡在支付终端前“挥一挥”即可完成小额通行费免密支付。（中原高速）
+12月15日12:00，随着第一辆驶入机场高速的司乘人员车牌支付成功，标志着机场高速郑州南收费站、机场收费站北口、机场收费站南口通行费征收实现支付宝信用支付——车牌支付（信用付）与银行卡闪付。 
+
+车牌支付功能是车主在支付宝芝麻信用分值高于550分值的基础上，在支付宝“高速纵横”生活号内注册，将自己的车牌号与支付宝账户绑定，在驶出高速时无须拿出手机进行扫码支付操作，而是提交通行卡后，由支付宝客户端自动代扣通行费用。当个人支付宝账户余额不足时，支付宝客户端将进行预付，确保通行费安全收回。银行卡闪付功能是车主提交通行卡后，用卡身有“闪付”标识的银行卡在支付终端前“挥一挥”即可完成小额通行费免密支付。（中原高速）
+
+## 微信出了信用“支付分”！
+
+近几年来，我国经济高速发展，随之而来的各种高科技领域都快速发展，在智能手机问世后，移动支付，网上购物，快递行业也随之兴起，提到移动支付，就不能不说支付宝和微信付款这两大领导者。
+
+![](http://inews.gtimg.com/newsapp_match/0/7808006013/0)
+
+微信与支付宝有所不同，虽然两者都具有支付的功能，但通过它们的名字，我们也能猜到它们的主要功能，微信是以通讯为主的应用程序，而支付宝主要以移动支付为主要功能。最近，微信出了一项新的功能，叫做“微信支付分”。
+
+![](http://inews.gtimg.com/newsapp_match/0/7808004782/0)
+
+“微信支付分”您听说过吗？据了解，微信有了一款新的功能，即与信用有关的微信支付分，所谓微信支付分，与用户的身份特质，支付行为，守约历史都有一定的关系。每个人都可以开通一个微信支付分。
+
+![](http://inews.gtimg.com/newsapp_match/0/7808005316/0)
+
+据报道，目前微信支付分正在测试阶段，微信支付分相当于支付宝芝麻信用，通过一些小程序可利用微信支付分申请免押金租借充电宝。
+
+![](http://inews.gtimg.com/newsapp_match/0/7808006672/0)
+
+虽然模式相似，但细心比较后，还是能看出一些不同，比如，微信支付分刚刚开始发展，然而支付宝的芝麻信用已经存在许多年，各个方面都已经比较完善，相较于微信支付分，芝麻信用存在很大的优势。
+
+![](http://inews.gtimg.com/newsapp_match/0/7808005634/0)
+
+由于微信支付分目前为止仍然处于测试阶段，有些人可以开通微信支付分，有些人不能开通，这都是正常现象，不能开通的宝宝们也不要心急，最后，小编也想要提醒大家一句，要注意保护自己的隐私哦！
 
 
+https://kuaibao.qq.com/s/20190221A0YX3H00?refer=spider
 
 ## CareCredit
 CareCredit offers healthcare financing for consumers through a network of over 175,000 providers. Founded in 1987, CareCredit was initially offered to doctors to help their patients pay for new dental implant technology. Continued advancements in technology, and procedures that are often not covered or fully covered by insurance, have created new choices for care, increasing the demand for financing options. CareCredit is a healthcare credit card that can be used as a payment option for certain expenses not covered by insurance or to bridge situations when desired care exceeds insurance coverage. CareCredit is offered primarily for:
