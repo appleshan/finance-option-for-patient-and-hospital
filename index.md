@@ -15,8 +15,6 @@ By wanghaisheng {.text-intro}
 
 
 
-
-
 <slide class="bg-apple aligncenter">
 
 ## 门诊案例-某县人民医院     
@@ -579,6 +577,187 @@ https://baike.baidu.com/item/%E2%80%9C%E5%85%88%E7%9C%8B%E7%97%85%E5%90%8E%E4%BB
 -------
 ![](https://user-images.githubusercontent.com/2363295/56047904-005c8480-5d79-11e9-9896-e828b3b90690.png) )
 
+
+
+
+<slide class="bg-apple aligncenter">
+
+## 饼都多大
+
+近10年医疗服务费用
+社保支出占比
+自费支付占比
+商保支出占比
+救助类支付
+
+
+<slide class="aligncenter">
+:::note
+政府支出涵盖了各级政府用于医疗卫生服务、医疗保障补助、卫生行政管理和人口计划生育等事务性支出。
+
+社会卫生支出包含社保支出、商业保险费用、社会办医支出、社会捐赠援助等
+
+个人支出指的是城镇居民、农民等个人的现金支出，提醒个体的负担程度。
+
+:::
+
+# 医疗服务费用直线攀升
+```echarts {style="height:100%;width:100%;"}
+{
+    tooltip : {
+        trigger: 'axis',
+        axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+        }
+    },
+    legend: {
+        data:['总费用','政府支出', '社会支出','个人支出']
+    },
+    toolbox: {
+        show : true,
+        feature : {
+            mark : {show: true},
+            dataView : {show: true, readOnly: false},
+            magicType : {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+            restore : {show: true},
+            saveAsImage : {show: true}
+        }
+    },
+    calculable : true,
+    xAxis : [
+        {
+            type : 'value'
+        }
+    ],
+    yAxis : [
+        {
+            type : 'category',
+            data : ['2001','2002','2003','2004','2005','2006','2007'
+                    ,'2008','2009','2010','2011','2012','2013'                    
+                    ,'2014','2015','2016','2017'                   
+                    ]
+        }
+    ],
+    series : [
+        {
+            name:'总费用',
+            type:'bar',
+            stack: '总量',
+            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
+            data:[5025.93, 5790.03, 6584.10, 7590.29, 8659.91, 9843.34, 11573.97
+                ,14535.40, 17541.92, 19980.39, 24345.91, 28119.00, 31668.95
+                ,35312.40, 40974.64, 46344.88, 52598.28            
+            ]        },        
+        {
+            name:'政府支出',
+            type:'bar',
+            stack: '总量',
+            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
+            data:[800.61, 908.51, 1116.94, 1293.58, 1552.53, 1778.86, 2581.58
+                ,3593.94, 4816.26, 5732.49, 7464.18, 8431.98, 9545.81
+                ,10579.23, 12475.28, 13910.31, 15205.87           
+            ]
+        },
+        {
+            name:'社会支出',
+            type:'bar',
+            stack: '总量',
+            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
+            data:[1211.43, 1539.38, 1788.50, 2225.35, 2586.41, 3210.92, 3893.72
+                ,5065.60, 6154.49, 7196.61, 8416.45, 10030.70, 11393.79
+                ,13437.75, 16506.71, 19096.68, 22258.81           
+            ]        },
+        {
+            name:'个人支出',
+            type:'bar',
+            stack: '总量',
+            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
+            data:[3013.89, 3342.14, 3678.66, 4071.35, 4520.98, 4853.56, 5098.66
+                ,5875.86, 6571.16, 7051.29, 8465.28, 9656.32, 10729.34
+                ,11295.41, 11992.65, 13337.90, 15133.60            
+            ]        }
+    ]
+};
+                    
+                          
+```
+
+
+
+
+
+<slide class="aligncenter">
+# 自费比例在下降，但个人负担越来越重
+```echarts {style="height:100%;width:100%;"}
+
+
+option = {
+    tooltip : {
+        trigger: 'axis'
+    },
+    legend: {
+        data:['人均自费金额','自费比例','人均总费用']
+    },
+    toolbox: {
+        show : true,
+        feature : {
+            mark : {show: true},
+            dataView : {show: true, readOnly: false},
+            magicType : {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+            restore : {show: true},
+            saveAsImage : {show: true}
+        }
+    },
+    calculable : true,
+    xAxis : [
+        {
+            type : 'category',
+            boundaryGap : false,
+            data : ['2001','2002','2003','2004','2005','2006','2007'
+                    ,'2008','2009','2010','2011','2012','2013'                    
+                    ,'2014','2015','2016','2017'                   
+                    ]       
+                     }
+    ],
+    yAxis : [
+        {
+            type : 'value'
+        }
+    ],
+    series : [
+
+        {
+            name:'人均自费金额',
+            type:'line',
+            stack: '总量',
+            data:[236, 260, 284, 313, 345, 369, 385
+             ,442, 492, 525, 628, 713, 788
+              ,825, 872, 964, 1088
+            ]
+        },
+        {
+            name:'自费比例',
+            type:'line',
+            stack: '总量',
+            data:[59.97, 57.72, 55.87, 53.64, 52.21, 49.31, 44.05
+                ,40.42, 37.46, 35.29, 34.80, 34.34, 33.90
+                ,31.99, 29.27, 28.78, 28.77            
+            ]            
+             },
+        {
+            name:'人均总费用',
+            type:'line',
+            stack: '总量',
+            data:[393.8, 450.7, 509.5, 583.9, 662.3, 748.8, 876.0
+                ,1094.5, 1314.3, 1490.1, 1807.0, 2076.7, 2327.4
+                ,2581.7, 2980.8, 3351.7, 3783.8            
+            ]             
+               }
+    ]
+};
+```
+
+
 <slide class="bg-apple aligncenter">
 
 ## 混乱的世界
@@ -589,6 +768,9 @@ https://baike.baidu.com/item/%E2%80%9C%E5%85%88%E7%9C%8B%E7%97%85%E5%90%8E%E4%BB
 * a社保线下支付+a自费线下支付+a商保线下支付 
 
 
+
+<slide class="bg-apple aligncenter">
+# 看病难？？？
 <slide class="bg-apple alignleft">
 
 ## 自费移动支付    多少城多少医院  
@@ -603,6 +785,9 @@ https://baike.baidu.com/item/%E2%80%9C%E5%85%88%E7%9C%8B%E7%97%85%E5%90%8E%E4%BB
 * 自费患者使用率达到50%，但只有13.2%的挂号费和2.8%医疗费通过线上的系统
 :::
 
+
+<slide class="bg-apple aligncenter">
+# 看病贵？？？
 
 <slide class="bg-apple alignleft">
 
